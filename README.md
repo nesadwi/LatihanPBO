@@ -1,3 +1,7 @@
+// LATIHAN KMMI PBO KELOMPOK 4 
+// Muhammad Wafa Al Ausath 2015061057
+// Nesa Dwi Cahyani 2017051009
+
 //Class Employee
 
 abstract class Employee {
