@@ -99,3 +99,10 @@ public class Main {
         }
     }
 }
+
+// SCREENSHOT PROGRAM JAVA
+![Class Main](https://user-images.githubusercontent.com/83526578/134005475-dd2c9f41-7d89-4833-913a-889d09d9ecb4.jpeg)
+![Employee](https://user-images.githubusercontent.com/83526578/134005495-7804124e-e0a0-47cd-a678-7c9c18b686f5.jpeg)
+![Hourly Employee](https://user-images.githubusercontent.com/83526578/134005519-44386fb5-69dd-4c47-b880-62ba8db848d2.jpeg)
+![Salaried Employee](https://user-images.githubusercontent.com/83526578/134005546-bd39d5e2-c2fb-4b3e-b7f3-be1323ba1606.jpeg)
+![Ouput](https://user-images.githubusercontent.com/83526578/134005569-fbac2e45-d44f-4e24-8ac8-ba94d058a76b.jpeg)
